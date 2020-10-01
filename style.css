@@ -1,0 +1,77 @@
+body {
+	margin: 0px auto;
+	padding: 60px;
+	width: 900px;
+	position: relative;
+	text-align: left;
+	font-weight: 300;
+	font-family: 'Cambria', sans-serif;
+	color: #121212;
+}
+header {
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+h1, h2 {
+	font-family: 'Courier', sans-serif;
+	margin-bottom: 45px;
+	margin-top: 45px;
+}
+h3, h4 {
+	align: left;
+		margin-bottom: 0px;
+		margin-left: 30px;
+		font-family: 'Courier', sans-serif;
+}
+p {
+	text-align: left;
+	margin: 30px auto;
+	width: 700px;
+	padding: 0px 30px;
+	margin-bottom: 15px;
+
+}
+
+/* .images {
+	padding: 30px auto;
+	margin: 30px auto;
+	border: 30px auto;
+} */
+.images3 .row {
+   align: middle;
+   width: 30%;
+   padding: 0px 10px;
+	 margin-bottom: 30px;
+}
+
+.images2 .row {
+	align: middle;
+	width: 50%;
+	margin: 15px 0px;
+}
+.images4 .row {
+   float: left;
+   width: 25%;
+	 margin-bottom: 30px;
+}
+.images1 .row {
+	float: left;
+	width: 100%;
+	margin: 15px 0px;
+}
+.text {
+	margin: 30px auto;
+}
+
+.hybrid:hover {
+	transform: scale(0.4);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.devito:hover {
+	transform: scale(2.0);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.td {
+	border: 30px auto;
+}
